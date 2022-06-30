@@ -1,6 +1,6 @@
 ## Hi, I´m Stylus  
 
-<img align = "right" src="lobinis.gif"> 
+<img align = "right" src="https://c.tenor.com/-xzOoSVqd0YAAAAC/homer-simpsons-the-simpsons.gif"> 
 
 My name is Vitor Hugo, I´m new in the 'technology world' .
 
